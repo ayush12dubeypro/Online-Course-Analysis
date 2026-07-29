@@ -3,50 +3,67 @@
 ![DAX](https://img.shields.io/badge/DAX-0176D3?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
 
-## 📌 Overview
-This project is a Power BI dashboard that analyzes online course data to provide insights into course performance, ratings, duration, skill demand, and course levels through interactive visualizations.
+## 📌 Problem Statement
 
-## 🎯 Project Objective
+An EdTech startup aims to expand its recorded lecture offerings by analyzing course data collected from multiple online learning platforms. The objective is to uncover learner preferences, engagement patterns, and market trends to support data-driven business decisions.
 
-Analyze online course data to identify trends in course ratings, duration, skill demand, and learner engagement through an interactive Power BI dashboard.
+## 🎯 Business Objectives
 
-## 🚀 Features
-- Interactive Dashboard
-- KPI Cards
-- Course Rating Analysis
-- Course Duration Analysis
-- Skill Distribution
-- Course Level Analysis
-- Power Query Data Cleaning
-- DAX Measures
+This dashboard helps answer key business questions:
+
+- 📚 Analyze course distribution across categories and subcategories.
+- 👀 Measure average course views by category, subcategory, and language.
+- 💡 Identify the most in-demand skills across different categories.
+- 🌍 Analyze course language distribution and learner preferences.
+- 🎬 Evaluate the impact of subtitles on course engagement.
+- ⭐ Identify the top 3 instructors based on course ratings.
+- ⏱️ Examine the relationship between course duration and viewer engagement.
+- 📈 Analyze how skill diversity influences course popularity.
 
 ## 🛠️ Technologies Used
+
 - Power BI
 - Power Query (M Language)
 - DAX
 - Microsoft Excel
 
+## 📊 Dashboard Features
+
+- KPI Cards
+- Interactive Slicers
+- Category & Subcategory Analysis
+- Language Analysis
+- Skill Analysis
+- Instructor Ranking
+- Duration vs Views Analysis
+- Subtitle Impact Analysis
+
 ## 🎥 Dashboard Demo
 
 <p align="center">
-  <img src="dashboard-demo.gif" alt="Dashboard Demo" width="900">
+  <img src="dashboard-demo.gif" width="900">
 </p>
 
-## 📷 Dashboard Screenshot
+## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="Dashboard Screenshot" width="900">
+  <img src="dashboard.png" width="900">
 </p>
 
 ## 📂 Repository Contents
-- `OLINE COURSE ANALYSIS power bi.pbix` – Power BI dashboard
-- `dashboard.png` – Dashboard screenshot
-- `README.md` – Project documentation
 
-## ▶️ How to Use
-1. Download the `.pbix` file.
-2. Open it using Microsoft Power BI Desktop.
-3. Refresh the data if required.
+- `Online_Course_Analysis.pbix`
+- `dashboard-demo.gif`
+- `dashboard.png`
+- `README.md`
 
+## 📈 Key Insights
+
+- Identified the most popular course categories and subcategories.
+- Analyzed learner language preferences across top-performing categories.
+- Evaluated the influence of subtitles on viewer engagement.
+- Identified top-rated instructors for potential collaboration.
+- Explored the relationship between course duration and viewer engagement.
+- Highlighted the most in-demand skills across educational categories.
 ## 👨‍💻 Author
 **Ayush Dubey**
