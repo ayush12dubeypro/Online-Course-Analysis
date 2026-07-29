@@ -26,10 +26,16 @@ Analyze online course data to identify trends in course ratings, duration, skill
 - DAX
 - Microsoft Excel
 
-## 📷 Dashboard Preview
+## 🎥 Dashboard Demo
 
 <p align="center">
-  <img src="dashboard.png" alt="Dashboard Preview" width="900"/>
+  <img src="dashboard-demo.gif" alt="Dashboard Demo" width="900">
+</p>
+
+## 📷 Dashboard Screenshot
+
+<p align="center">
+  <img src="dashboard.png" alt="Dashboard Screenshot" width="900">
 </p>
 
 ## 📂 Repository Contents
